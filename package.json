@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "keyword-extractor": "0.0.21",
     "xlsx": "^0.18.0"
   }
 }
